@@ -1,0 +1,33 @@
+body{
+  background-color: rgb(73, 69, 69);
+}
+.container{
+  width:400px;
+  height:450px;
+  margin: 50px auto;
+  padding: 30px;
+  background-color:rgb(228, 151, 124);
+
+}
+.info{
+  text-align: center;
+  margin-bottom:20px;
+}
+.card{
+  width: 300px;
+  height: 350px;
+  box-shadow: 0 0 10px black;
+  margin: 40px auto;
+  background-color: white;
+  border-radius: 20px;
+}
+.follower{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+}
+img{
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+}
